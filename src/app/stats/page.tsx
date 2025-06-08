@@ -26,12 +26,10 @@ export default function PlacementStatsSearchPage() {
   const collegeNames = collegeKeys.map((key) => ({ key, name: collegesData[key]?.name || key }));
 
   useEffect(() => {
-    try {
+    
       const stored = JSON.parse(localStorage.getItem("recentSearches") || "[]");
       if (Array.isArray(stored)) setRecentSearches(stored);
-    } catch (err) {
-      console.error("Invalid localStorage data for recentSearches");
-    }
+    
   }, []);
 
   const updateRecentSearches = (collegeKey: string) => {

@@ -9,6 +9,7 @@ import {
   Tooltip,
   Legend,
   ResponsiveContainer,
+  TooltipProps,
 } from "recharts";
 
 interface BarChartProps {
@@ -18,6 +19,10 @@ interface BarChartProps {
 }
 
 export default function BarChart({ data, title = "Placement Trends", branch = "" }: BarChartProps) {
+  const formatTooltipValue = (value: number, name: string): [string, string] => {
+    return [`${value} LPA`, name];
+  };
+
   return (
     <div className="p-4 bg-white rounded-xl shadow-md">
       {title && <h2 className="text-xl font-semibold mb-4 text-center">{title}</h2>}
@@ -27,13 +32,13 @@ export default function BarChart({ data, title = "Placement Trends", branch = ""
         <RechartsBarChart
           data={data}
           margin={{ top: 20, right: 30, left: 20, bottom: 5 }}
-          barCategoryGap={40} // space between groups
-          barGap={5} // space between individual bars
+          barCategoryGap={40}
+          barGap={5}
         >
           <XAxis dataKey="year" />
           <YAxis />
           <Tooltip
-            formatter={(value: any, name: any) => [`${value} LPA`, name]}
+            formatter={formatTooltipValue}
             contentStyle={{ backgroundColor: "#fff" }}
           />
           <Legend />

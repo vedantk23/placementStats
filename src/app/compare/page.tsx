@@ -29,7 +29,7 @@ type College = {
   };
 };
 
-const colleges: College[] = Object.entries(collegesDataRaw).map(([key, value]: any) => ({
+const colleges: College[] = Object.entries(collegesDataRaw).map(([key, value]) => ({
   key,
   ...value,
 }));

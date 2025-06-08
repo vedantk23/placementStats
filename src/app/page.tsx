@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useState, useMemo } from "react";
+import React, { useState } from "react";
 import { useRouter } from "next/navigation";
 import { Card, CardContent } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
@@ -9,7 +9,7 @@ import { motion } from "framer-motion";
 
 
 export default function LandingPage() {
-  const [searching, setSearching] = useState(false);
+  const [searching] = useState(false);
   const [query, setQuery] = useState("");
   const router = useRouter();
 
