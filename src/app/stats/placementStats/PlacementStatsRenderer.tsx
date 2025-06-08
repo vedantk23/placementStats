@@ -35,32 +35,46 @@ type Props = {
   collegeKey: string;
 };
 
+// Partial type used for cleaning raw data safely
+type PartialBranchStats = Partial<BranchStats> & Record<string, unknown>;
+
+const filterValidBranchStats = (arr: PartialBranchStats[]): BranchStats[] =>
+  Array.isArray(arr)
+    ? arr
+        .filter((b): b is BranchStats => b && typeof b.branch === "string")
+        .map((b) => ({
+          branch: b.branch ?? null,
+          highestPackage: typeof b.highestPackage === "number" ? b.highestPackage : null,
+          lowestPackage: typeof b.lowestPackage === "number" ? b.lowestPackage : null,
+          medianPackage: typeof b.medianPackage === "number" ? b.medianPackage : null,
+          averagePackage: typeof b.averagePackage === "number" ? b.averagePackage : null,
+          placementPercentage: typeof b.placementPercentage === "number" ? b.placementPercentage : null,
+          registeredStudent: typeof b.registeredStudent === "number" ? b.registeredStudent : null,
+          placedStudent: typeof b.placedStudent === "number" ? b.placedStudent : null,
+        }))
+    : [];
+
+const fixYearStats = (
+  stats: Partial<Record<"UG" | "PG", PartialBranchStats[]>> | undefined
+): YearStats | undefined =>
+  stats
+    ? {
+        UG: filterValidBranchStats(stats.UG ?? []),
+        PG: filterValidBranchStats(stats.PG ?? []),
+      }
+    : undefined;
+
 const collegesData: Record<string, CollegeData> = Object.fromEntries(
-  Object.entries(collegesDataRaw).map(([key, value]) => {
-    const filterValidBranchStats = (arr: any[]): BranchStats[] =>
-      Array.isArray(arr)
-        ? arr.filter((b) => b && typeof b.branch === "string")
-        : [];
-
-    const fixYearStats = (stats: any): YearStats | undefined =>
-      stats
-        ? {
-            UG: filterValidBranchStats(stats.UG),
-            PG: filterValidBranchStats(stats.PG),
-          }
-        : undefined;
-
-    return [
-      key,
-      {
-        ...value,
-        UG: filterValidBranchStats(value.UG),
-        PG: filterValidBranchStats(value.PG),
-        oneYearbackStats: fixYearStats(value.oneYearbackStats),
-        twoYearbackStats: fixYearStats(value.twoYearbackStats),
-      },
-    ];
-  })
+  Object.entries(collegesDataRaw).map(([key, value]) => [
+    key,
+    {
+      ...value,
+      UG: filterValidBranchStats(value.UG),
+      PG: filterValidBranchStats(value.PG),
+      oneYearbackStats: fixYearStats(value.oneYearbackStats),
+      twoYearbackStats: fixYearStats(value.twoYearbackStats),
+    },
+  ])
 );
 
 type SortKey = "medianPackage" | "placementPercentage" | "averagePackage" | null;
@@ -151,25 +165,13 @@ export default function PlacementStatsRenderer({ collegeKey }: Props) {
             <th className="p-3 text-left">Branch</th>
             <th className="p-3 text-right">Highest</th>
             <th className="p-3 text-right">Lowest</th>
-            <th
-              className="p-3 text-right cursor-pointer select-none"
-              onClick={() => toggleSort("medianPackage")}
-              title="Sort by Median Package"
-            >
+            <th className="p-3 text-right cursor-pointer" onClick={() => toggleSort("medianPackage")}>
               Median {renderSortIcon("medianPackage")}
             </th>
-            <th
-              className="p-3 text-right cursor-pointer select-none"
-              onClick={() => toggleSort("averagePackage")}
-              title="Sort by Average Package"
-            >
+            <th className="p-3 text-right cursor-pointer" onClick={() => toggleSort("averagePackage")}>
               Average {renderSortIcon("averagePackage")}
             </th>
-            <th
-              className="p-3 text-right cursor-pointer select-none"
-              onClick={() => toggleSort("placementPercentage")}
-              title="Sort by Placement Percentage"
-            >
+            <th className="p-3 text-right cursor-pointer" onClick={() => toggleSort("placementPercentage")}>
               Placement % {renderSortIcon("placementPercentage")}
             </th>
             <th className="p-3 text-right">Registered</th>
@@ -267,31 +269,18 @@ export default function PlacementStatsRenderer({ collegeKey }: Props) {
       </div>
 
       <div className="relative z-30 flex flex-wrap gap-4 mb-6">
-        <div>
-          <label>
-            <input type="radio" checked={degree === "UG"} onChange={() => setDegree("UG")}/> <span className="ml-2">UG</span>
+        {["UG", "PG"].map((d) => (
+          <label key={d}>
+            <input type="radio" checked={degree === d} onChange={() => setDegree(d as "UG" | "PG")} />{" "}
+            <span className="ml-2">{d}</span>
           </label>
-        </div>
-        <div>
-          <label>
-            <input type="radio" checked={degree === "PG"} onChange={() => setDegree("PG")} /> <span className="ml-2">PG</span>
+        ))}
+        {["current", "oneYearBack", "twoYearBack"].map((y) => (
+          <label key={y}>
+            <input type="radio" checked={yearView === y} onChange={() => setYearView(y as any)} />{" "}
+            <span className="ml-2">{y.replace(/([A-Z])/g, " $1").trim()}</span>
           </label>
-        </div>
-        <div>
-          <label>
-            <input type="radio" checked={yearView === "current"} onChange={() => setYearView("current")} /> <span className="ml-2">Current Year</span>
-          </label>
-        </div>
-        <div>
-          <label>
-            <input type="radio" checked={yearView === "oneYearBack"} onChange={() => setYearView("oneYearBack")} /> <span className="ml-2">1 Year Back</span>
-          </label>
-        </div>
-        <div>
-          <label>
-            <input type="radio" checked={yearView === "twoYearBack"} onChange={() => setYearView("twoYearBack")} /> <span className="ml-2">2 Years Back</span>
-          </label>
-        </div>
+        ))}
       </div>
 
       {branchData.length === 0 ? (
