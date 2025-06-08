@@ -1,0 +1,1654 @@
+{
+  "iit_bombay": {
+    "name": "IIT Bombay",
+    "nirfRank": 3,
+    "qsWorldRanking": 149,
+    "abbreviation" : ["IIT Bombay","IITB"],
+    "photo": "https://www.kindpng.com/picc/m/282-2829188_iit-bombay-logo-png-transparent-png.png",
+    "UG": [
+      
+    ],
+    "PG": [
+     
+    ],
+    "oneYearbackStats": {
+      "UG": [
+      
+      ],
+      "PG": [
+       
+      ]
+    },
+    "twoYearbackStats": {
+      "UG": [
+       
+      ],
+      "PG": [
+      
+      ]
+    }
+  },
+
+  
+
+  "bits_pilani": {
+    "name": "BITS GOA",
+    "nirfRank": 25,
+    "qsWorldRanking": 951,
+    "abbreviation" : ["bits","BITS Goa"],
+    "photo": "https://www.pngitem.com/middle/wwbmRR_bits-pilani-logo-png-transparent-png/",
+    "UG": [
+     
+      
+    ],
+    "PG": [
+     
+    ],
+    "oneYearbackStats": {
+      "UG": [
+       { "branch": "CSE",
+    "highestPackage": null,
+    "lowestPackage": null,
+    "medianPackage": null,
+    "averagePackage": 25.73,
+    "placementPercentage": 90,
+    "registeredStudent": 243,
+    "placedStudent": 221} ,
+       { "branch": "ECE",
+    "highestPackage": null,
+    "lowestPackage": null,
+    "medianPackage": null,
+    "averagePackage": 22.26,
+    "placementPercentage": 77,
+    "registeredStudent": 109,
+    "placedStudent": 83} ,
+       { "branch": "EE",
+    "highestPackage": null,
+    "lowestPackage": null,
+    "medianPackage": null,
+    "averagePackage": 18.05,
+    "placementPercentage": 72.41,
+    "registeredStudent": 116,
+    "placedStudent": 84} 
+      ],
+      "PG": [
+       { "branch": "CSE",
+    "highestPackage": null,
+    "lowestPackage": null,
+    "medianPackage": null,
+    "averagePackage": 21.8,
+    "placementPercentage": 66.04,
+    "registeredStudent": 53,
+    "placedStudent": 35} 
+      
+      ]
+    },
+    "twoYearbackStats": {
+      "UG": [
+       { "branch": "CSE",
+    "highestPackage": null,
+    "lowestPackage": null,
+    "medianPackage": null,
+    "averagePackage": 21.8,
+    "placementPercentage": 99,
+    "registeredStudent": 229,
+    "placedStudent": 226} 
+      ],
+      "PG": [
+       { "branch": "CSE",
+    "highestPackage": null,
+    "lowestPackage": null,
+    "medianPackage": null,
+    "averagePackage": 21.05,
+    "placementPercentage": 99,
+    "registeredStudent": 49,
+    "placedStudent": 48} 
+      ]
+    }
+  },
+  "iit_kanpur": {
+    "name": "IIT Kanpur",
+    "nirfRank": 3,
+    "qsWorldRanking": 149,
+    "abbreviation" : ["IIT K","IIT kan"],
+    "photo": "https://www.kindpng.com/picc/m/282-2829188_iit-bombay-logo-png-transparent-png.png",
+    "UG": [
+      
+  
+
+    ],
+    "PG": [
+      
+    ],
+    "oneYearbackStats": {
+    "UG": [
+    {
+    "branch": "AE",
+    "highestPackage": null,
+    "lowestPackage": null,
+    "medianPackage": 17.7,
+    "averagePackage": 20.1,
+    "placementPercentage": 77.1,
+    "registeredStudent": 35,
+    "placedStudent": 27
+  },
+  {
+    "branch": "BSBE",
+    "highestPackage": null,
+    "lowestPackage": null,
+    "medianPackage": 14.7,
+    "averagePackage": 13.8,
+    "placementPercentage": 50.0,
+    "registeredStudent": 24,
+    "placedStudent": 12
+  },
+  {
+    "branch": "CE",
+    "highestPackage": null,
+    "lowestPackage": null,
+    "medianPackage": 15.8,
+    "averagePackage": 16.3,
+    "placementPercentage": 69.2,
+    "registeredStudent": 104,
+    "placedStudent": 72
+  },
+  {
+    "branch": "CHE",
+    "highestPackage": null,
+    "lowestPackage": null,
+    "medianPackage": 16.0,
+    "averagePackage": 18.9,
+    "placementPercentage": 82.0,
+    "registeredStudent": 89,
+    "placedStudent": 73
+  },
+  {
+    "branch": "CSE",
+    "highestPackage": null,
+    "lowestPackage": null,
+    "medianPackage": 40.7,
+    "averagePackage": 52.8,
+    "placementPercentage": 95.9,
+    "registeredStudent": 121,
+    "placedStudent": 116
+  },
+  {
+    "branch": "EE",
+    "highestPackage": null,
+    "lowestPackage": null,
+    "medianPackage": 23.5,
+    "averagePackage": 27.6,
+    "placementPercentage": 85.3,
+    "registeredStudent": 163,
+    "placedStudent": 139
+  },
+  {
+    "branch": "ME",
+    "highestPackage": null,
+    "lowestPackage": null,
+    "medianPackage": 19.2,
+    "averagePackage": 19.7,
+    "placementPercentage": 74.6,
+    "registeredStudent": 114,
+    "placedStudent": 85
+  },
+  {
+    "branch": "MSE",
+    "highestPackage": null,
+    "lowestPackage": null,
+    "medianPackage": 15.0,
+    "averagePackage": 17.3,
+    "placementPercentage": 70.3,
+    "registeredStudent": 74,
+    "placedStudent": 52
+  }
+  ],
+  "PG": [
+  {
+    "branch": "AE",
+    "highestPackage": null,
+    "lowestPackage": null,
+    "medianPackage": 10.7,
+    "averagePackage": 10.6,
+    "placementPercentage": 39.1,
+    "registeredStudent": 46,
+    "placedStudent": 18
+  },
+  {
+    "branch": "BSBE",
+    "highestPackage": null,
+    "lowestPackage": null,
+    "medianPackage": 12.2,
+    "averagePackage": 12.2,
+    "placementPercentage": 25.0,
+    "registeredStudent": 4,
+    "placedStudent": 1
+  },
+  {
+    "branch": "CE",
+    "highestPackage": null,
+    "lowestPackage": null,
+    "medianPackage": 9.0,
+    "averagePackage": 11.7,
+    "placementPercentage": 64.0,
+    "registeredStudent": 50,
+    "placedStudent": 32
+  },
+  {
+    "branch": "CHE",
+    "highestPackage": null,
+    "lowestPackage": null,
+    "medianPackage": 10.4,
+    "averagePackage": 12.9,
+    "placementPercentage": 70.3,
+    "registeredStudent": 37,
+    "placedStudent": 26
+  },
+  {
+    "branch": "CSE",
+    "highestPackage": null,
+    "lowestPackage": null,
+    "medianPackage": 21.4,
+    "averagePackage": 24.7,
+    "placementPercentage": 74.3,
+    "registeredStudent": 74,
+    "placedStudent": 55
+  },
+  {
+    "branch": "EE",
+    "highestPackage": null,
+    "lowestPackage": null,
+    "medianPackage": 27.5,
+    "averagePackage": 28.0,
+    "placementPercentage": 71.4,
+    "registeredStudent": 77,
+    "placedStudent": 55
+  },
+  {
+    "branch": "ES",
+    "highestPackage": null,
+    "lowestPackage": null,
+    "medianPackage": 11.0,
+    "averagePackage": 11.1,
+    "placementPercentage": 25.0,
+    "registeredStudent": 12,
+    "placedStudent": 3
+  },
+  {
+    "branch": "ME",
+    "highestPackage": null,
+    "lowestPackage": null,
+    "medianPackage": 10.3,
+    "averagePackage": 10.9,
+    "placementPercentage": 84.4,
+    "registeredStudent": 32,
+    "placedStudent": 27
+  },
+  {
+    "branch": "DOMS",
+    "highestPackage": null,
+    "lowestPackage": null,
+    "medianPackage": 14.8,
+    "averagePackage": 13.6,
+    "placementPercentage": 43.8,
+    "registeredStudent": 16,
+    "placedStudent": 7
+  },
+  {
+    "branch": "MSE",
+    "highestPackage": null,
+    "lowestPackage": null,
+    "medianPackage": 13.1,
+    "averagePackage": 14.2,
+    "placementPercentage": 75.0,
+    "registeredStudent": 16,
+    "placedStudent": 12
+  },
+  {
+    "branch": "MSP",
+    "highestPackage": null,
+    "lowestPackage": null,
+    "medianPackage": 12.2,
+    "averagePackage": 12.2,
+    "placementPercentage": 20.0,
+    "registeredStudent": 5,
+    "placedStudent": 1
+  },
+  {
+    "branch": "PSE",
+    "highestPackage": null,
+    "lowestPackage": null,
+    "medianPackage": 10.1,
+    "averagePackage": 10.1,
+    "placementPercentage": 25.0,
+    "registeredStudent": 4,
+    "placedStudent": 1
+  },
+  {
+    "branch": "SEE",
+    "highestPackage": null,
+    "lowestPackage": null,
+    "medianPackage": 12.7,
+    "averagePackage": 13.5,
+    "placementPercentage": 64.3,
+    "registeredStudent": 14,
+    "placedStudent": 9
+  }
+]
+    },
+    "twoYearbackStats": {
+      "UG": [
+       
+      ],
+      "PG": [
+       
+      ]
+    }
+  },
+  "iit_roorkee": {
+    "name": "IIT Roorkee",
+    "nirfRank": 3,
+    "qsWorldRanking": 149,
+    "abbreviation" : ["IIT R","IITR"],
+    "photo": "https://www.kindpng.com/picc/m/282-2829188_iit-bombay-logo-png-transparent-png.png",
+    "UG": [
+     
+    ],
+    "PG": [
+      
+    ],
+    "oneYearbackStats": {
+      "UG": [
+        {
+          "branch": "CSE",
+          "highestPackage": 90,
+          "lowestPackage": 9,
+          "medianPackage": 23,
+          "averagePackage": 28,
+          "placementPercentage": 94,
+          "registeredStudent": 98,
+          "placedStudent": 92
+        }
+      ],
+      "PG": [
+        {
+          "branch": "ECE",
+          "highestPackage": 38,
+          "lowestPackage": 7,
+          "medianPackage": 19,
+          "averagePackage": 21,
+          "placementPercentage": 84,
+          "registeredStudent": 75,
+          "placedStudent": 63
+        }
+      ]
+    },
+    "twoYearbackStats": {
+      "UG": [
+      
+      ],
+      "PG": [
+        
+      ]
+    }
+  },
+  "iit_indore": {
+    "name": "IIT Indore",
+    "nirfRank": 3,
+    "qsWorldRanking": 149,
+    "abbreviation" : ["IIT Indore","IIT I"],
+    "photo": "https://www.kindpng.com/picc/m/282-2829188_iit-bombay-logo-png-transparent-png.png",
+    "UG": [
+      
+    ],
+    "PG": [
+      
+    ],
+    "oneYearbackStats": {
+      "UG": [
+       
+      ],
+      "PG": [
+      
+      ]
+    },
+    "twoYearbackStats": {
+      "UG": [
+        
+      ],
+      "PG": [
+       
+      ]
+    }
+  },
+  "iit_roopar": {
+    "name": "IIT Roopar",
+    "nirfRank": 3,
+    "qsWorldRanking": 149,
+    "abbreviation" : ["IIT Roopar","IITR"],
+    "photo": "https://www.kindpng.com/picc/m/282-2829188_iit-bombay-logo-png-transparent-png.png",
+    "UG": [
+     
+    ],
+    "PG": [
+      
+    ],
+    "oneYearbackStats": {
+      "UG": [
+        
+      ],
+      "PG": [
+      
+      ]
+    },
+    "twoYearbackStats": {
+      "UG": [
+       
+      ],
+      "PG": [
+      
+      ]
+    }
+  },
+  "iit_gandhinagar": {
+    "name": "IIT GandhiNagar",
+    "nirfRank": 3,
+    "qsWorldRanking": 149,
+    "abbreviation" : ["IIT G","IIT Gandhi"],
+    "photo": "https://www.kindpng.com/picc/m/282-2829188_iit-bombay-logo-png-transparent-png.png",
+    "UG": [
+     
+    ],
+    "PG": [
+      
+    ],
+    "oneYearbackStats": {
+      "UG": [
+       
+      ],
+      "PG": [
+        
+      ]
+    },
+    "twoYearbackStats": {
+      "UG": [
+       
+      ],
+      "PG": [
+       
+      ]
+    }
+  },
+  "iisc_banglore": {
+    "name": "IISC Banglore",
+    "nirfRank": 3,
+    "qsWorldRanking": 149,
+    "abbreviation" : ["IISC B","IISC"],
+    "photo": "https://www.kindpng.com/picc/m/282-2829188_iit-bombay-logo-png-transparent-png.png",
+    "UG": [
+     
+    ],
+    "PG": [
+     
+    ],
+    "oneYearbackStats": {
+      "UG": [
+        
+      ],
+      "PG": [
+      
+      ]
+    },
+    "twoYearbackStats": {
+      "UG": [
+       
+      ],
+      "PG": [
+       
+      ]
+    }
+  },
+  "iit_jammu": {
+    "name": "IIT Jammu",
+    "nirfRank": 3,
+    "qsWorldRanking": 149,
+    "abbreviation" : ["IIT Jammu","IITJ"],
+    "photo": "https://www.kindpng.com/picc/m/282-2829188_iit-bombay-logo-png-transparent-png.png",
+    "UG": [
+      
+    ],
+    "PG": [
+      {
+        
+      }
+    ],
+    "oneYearbackStats": {
+      "UG": [
+        {
+        "branch": "CSE",
+        "highestPackage": 52,
+        "lowestPackage": 10,
+        "medianPackage": 15,
+        "averagePackage": 19.47,
+        "placementPercentage": 92.5,
+        "registeredStudent": 40,
+        "placedStudent": 37
+      },
+       {
+        "branch": "EE",
+        "highestPackage": 41.4,
+        "lowestPackage": 7,
+        "medianPackage": 9,
+        "averagePackage": 14.86,
+        "placementPercentage": 30.5,
+        "registeredStudent": 36,
+        "placedStudent": 11
+      }
+      ],
+      "PG": [
+       
+      ]
+    },
+    "twoYearbackStats": {
+      "UG": [
+       
+      ],
+      "PG": [
+        
+      ]
+    }
+  },
+  "ism_dhanbad": {
+    "name": "ISM Dhanbad",
+    "nirfRank": 3,
+    "qsWorldRanking": 149,
+    "abbreviation" : ["ISM Dhanbad","ISM","ISMD","IIT Dhanbad"],
+    "photo": "https://www.kindpng.com/picc/m/282-2829188_iit-bombay-logo-png-transparent-png.png",
+    "UG": [
+      
+    ],
+    "PG": [
+     
+    ],
+    "oneYearbackStats": {
+      "UG": [
+    {
+      "branch": "Chemical Engineering",
+      "highestPackage": 35.25,
+      "lowestPackage": 6,
+      "medianPackage": 10,
+      "averagePackage": 13.33,
+      "registeredStudent": 43,
+      "placedStudent": 27,
+      "placementPercentage": 65.85
+    },
+    {
+      "branch": "Civil Engineering",
+      "highestPackage": 36.5,
+      "lowestPackage": 6,
+      "medianPackage": 9,
+      "averagePackage": 11.98,
+      "registeredStudent": 55,
+      "placedStudent": 22,
+      "placementPercentage": 40
+    },
+    {
+      "branch": "Computer Science & Engineering",
+      "highestPackage": 59,
+      "lowestPackage": 8,
+      "medianPackage": 19.15,
+      "averagePackage": 24.42,
+      "registeredStudent": 152,
+      "placedStudent": 126,
+      "placementPercentage": 82.89
+    },
+    {
+      "branch": "Electrical Engineering",
+      "highestPackage": 51.03,
+      "lowestPackage": 5.23,
+      "medianPackage": 13.83,
+      "averagePackage": 17.07,
+      "registeredStudent": 136,
+      "placedStudent": 84,
+      "placementPercentage": 61.76
+    },
+    {
+      "branch": "Electronics & Communication Engineering",
+      "highestPackage": 51.03,
+      "lowestPackage": 7.2,
+      "medianPackage": 15,
+      "averagePackage": 20.51,
+      "registeredStudent": 135,
+      "placedStudent": 87,
+      "placementPercentage": 64.44
+    },
+    {
+      "branch": "Engineering Physics",
+      "highestPackage": 51.03,
+      "lowestPackage": 7.8,
+      "medianPackage": 18.625,
+      "averagePackage": 22.21,
+      "registeredStudent": 28,
+      "placedStudent": 10,
+      "placementPercentage": 35.71
+    },
+    {
+      "branch": "Environmental Science & Engineering",
+      "highestPackage": 49.22,
+      "lowestPackage": 6,
+      "medianPackage": 11.88,
+      "averagePackage": 12.46,
+      "registeredStudent": 31,
+      "placedStudent": 23,
+      "placementPercentage": 74.19
+    },
+    {
+      "branch": "Mechanical Engineering",
+      "highestPackage": 51.03,
+      "lowestPackage": 5.23,
+      "medianPackage": 9.52,
+      "averagePackage": 13.76,
+      "registeredStudent": 104,
+      "placedStudent": 66,
+      "placementPercentage": 63.46
+    },
+    {
+      "branch": "Mechanical Engineering - Mining Machinery Engineering",
+      "highestPackage": 16,
+      "lowestPackage": 5,
+      "medianPackage": 8,
+      "averagePackage": 9.09,
+      "registeredStudent": 40,
+      "placedStudent": 29,
+      "placementPercentage": 72.5
+    },
+    {
+      "branch": "Minerals & Metallurgical Engineering",
+      "highestPackage": 51.03,
+      "lowestPackage": 6.2,
+      "medianPackage": 9,
+      "averagePackage": 12.98,
+      "registeredStudent": 31,
+      "placedStudent": 20,
+      "placementPercentage": 64.52
+    },
+    {
+      "branch": "Mining Engineering",
+      "highestPackage": 51.03,
+      "lowestPackage": 5.23,
+      "medianPackage": 9.9,
+      "averagePackage": 12.56,
+      "registeredStudent": 85,
+      "placedStudent": 59,
+      "placementPercentage": 69.41
+    },
+    {
+      "branch": "Petroleum Engineering",
+      "highestPackage": 34.63,
+      "lowestPackage": 6,
+      "medianPackage": 13.13,
+      "averagePackage": 15.19,
+      "registeredStudent": 78,
+      "placedStudent": 67,
+      "placementPercentage": 85.9
+    }
+  ],
+  "PG": [
+    {
+      "branch": "Applied Geophysics - Earthquake Science & Engineering",
+      "highestPackage": 13,
+      "lowestPackage": 5.4,
+      "medianPackage": 8.2,
+      "averagePackage": 8.7,
+      "registeredStudent": 10,
+      "placedStudent": 4,
+      "placementPercentage": 40
+    },
+    {
+      "branch": "Chemical Engineering",
+      "highestPackage": 15,
+      "lowestPackage": 5.4,
+      "medianPackage": 11.25,
+      "averagePackage": 10.73,
+      "registeredStudent": 18,
+      "placedStudent": 4,
+      "placementPercentage": 22.22
+    },
+    {
+      "branch": "Civil Engineering",
+      "highestPackage": 9,
+      "lowestPackage": 7.5,
+      "medianPackage": 7.5,
+      "averagePackage": 7.9,
+      "registeredStudent": 20,
+      "placedStudent": 5,
+      "placementPercentage": 25
+    },
+    {
+      "branch": "Computer Science & Engineering",
+      "highestPackage": 51.03,
+      "lowestPackage": 8.4,
+      "medianPackage": 15,
+      "averagePackage": 22.39,
+      "registeredStudent": 31,
+      "placedStudent": 20,
+      "placementPercentage": 64.52
+    },
+    {
+      "branch": "Data Analytics",
+      "highestPackage": 15.74,
+      "lowestPackage": 5.4,
+      "medianPackage": 12.5,
+      "averagePackage": 11.56,
+      "registeredStudent": 10,
+      "placedStudent": 5,
+      "placementPercentage": 50
+    },
+    {
+      "branch": "Electrical Engineering",
+      "highestPackage": 39.78,
+      "lowestPackage": 6,
+      "medianPackage": 12.5,
+      "averagePackage": 14.13,
+      "registeredStudent": 21,
+      "placedStudent": 13,
+      "placementPercentage": 61.9
+    },
+    {
+      "branch": "Electronics & Communication Engineering",
+      "highestPackage": 39.78,
+      "lowestPackage": 6,
+      "medianPackage": 18.5,
+      "averagePackage": 22.37,
+      "registeredStudent": 29,
+      "placedStudent": 14,
+      "placementPercentage": 48.28
+    },
+    {
+      "branch": "Environmental Science & Engineering",
+      "highestPackage": 9.2,
+      "lowestPackage": 5.4,
+      "medianPackage": 7.5,
+      "averagePackage": 7.75,
+      "registeredStudent": 32,
+      "placedStudent": 12,
+      "placementPercentage": 37.5
+    },
+    {
+      "branch": "Fuel, Minerals & Metallurgical Engineering",
+      "highestPackage": 13.11,
+      "lowestPackage": 6.2,
+      "medianPackage": 8.14,
+      "averagePackage": 9.17,
+      "registeredStudent": 15,
+      "placedStudent": 10,
+      "placementPercentage": 66.67
+    },
+    {
+      "branch": "Industrial Engineering & Management",
+      "highestPackage": 17,
+      "lowestPackage": 6,
+      "medianPackage": 9.55,
+      "averagePackage": 10.93,
+      "registeredStudent": 17,
+      "placedStudent": 13,
+      "placementPercentage": 76.47
+    },
+    {
+      "branch": "Mechanical Engineering",
+      "highestPackage": 21.74,
+      "lowestPackage": 6,
+      "medianPackage": 10,
+      "averagePackage": 10.7,
+      "registeredStudent": 51,
+      "placedStudent": 34,
+      "placementPercentage": 66.67
+    },
+    {
+      "branch": "Mechanical Engineering - Mining Machinery Engineering",
+      "highestPackage": 15.2,
+      "lowestPackage": 6,
+      "medianPackage": 10,
+      "averagePackage": 10.04,
+      "registeredStudent": 17,
+      "placedStudent": 12,
+      "placementPercentage": 70.59
+    },
+    {
+      "branch": "Petroleum Engineering",
+      "highestPackage": 22.5,
+      "lowestPackage": 6,
+      "medianPackage": 10,
+      "averagePackage": 9.78,
+      "registeredStudent": 16,
+      "placedStudent": 13,
+      "placementPercentage": 81.25
+    },
+    {
+      "branch": "Pharmaceutical Science & Engineering",
+      "highestPackage": 9,
+      "lowestPackage": 6,
+      "medianPackage": 7,
+      "averagePackage": 7.24,
+      "registeredStudent": 20,
+      "placedStudent": 5,
+      "placementPercentage": 25
+    }
+  ]
+    },
+    "twoYearbackStats": {
+      "UG": [
+       
+      ],
+      "PG": [
+       
+      ]
+    }
+  },
+  "nit_trichy": {
+    "name": "NIT Trichy",
+    "nirfRank": 3,
+    "qsWorldRanking": 149,
+    "abbreviation" : ["NIT Trichy","NIT T"],
+    "photo": "https://www.kindpng.com/picc/m/282-2829188_iit-bombay-logo-png-transparent-png.png",
+    "UG": [
+      
+    ],
+    "PG": [
+     
+    ],
+    "oneYearbackStats": {
+      "UG": [
+      
+      ],
+      "PG": [
+       
+      ]
+    },
+    "twoYearbackStats": {
+      "UG": [
+       
+      ],
+      "PG": [
+      
+      ]
+    }
+  },
+  "nit_surathkal": {
+    "name": "NIT Surathkal",
+    "nirfRank": 3,
+    "qsWorldRanking": 149,
+    "abbreviation" : ["Nit Suratkal"],
+    "photo": "https://www.kindpng.com/picc/m/282-2829188_iit-bombay-logo-png-transparent-png.png",
+    "UG": [
+      
+    ],
+    "PG": [
+     
+    ],
+    "oneYearbackStats": {
+      "UG": 
+        [
+  {
+    "branch": "CIVIL ENGG",
+    "highestPackage": 34.1 ,
+    "lowestPackage": 4.5 ,
+    "medianPackage": 10.1 ,
+    "averagePackage": 10.26 ,
+    "placementPercentage": null,
+    "registeredStudent": 117,
+    "placedStudent": 49
+  },
+  {
+    "branch": "CHEMICAL ENGG",
+    "highestPackage": 24 ,
+    "lowestPackage": 4.5 ,
+    "medianPackage": 13.65,
+    "averagePackage": 13.57 ,
+    "placementPercentage": null,
+    "registeredStudent": 56,
+    "placedStudent": 45
+  },
+  {
+    "branch": "CSE",
+    "highestPackage": 55 ,
+    "lowestPackage": 6 ,
+    "medianPackage": 28.5 ,
+    "averagePackage": 15.16 ,
+    "placementPercentage": null,
+    "registeredStudent": 128,
+    "placedStudent": 104
+  },
+  {
+    "branch": "ECE",
+    "highestPackage": 51 ,
+    "lowestPackage": 4.5 ,
+    "medianPackage": 15 ,
+    "averagePackage": 10.78 ,
+    "placementPercentage": null,
+    "registeredStudent": 128,
+    "placedStudent": 88
+  },
+  {
+    "branch": "EE",
+    "highestPackage": 47 ,
+    "lowestPackage": 4.5 ,
+    "medianPackage": 12.5 ,
+    "averagePackage": 12.27 ,
+    "placementPercentage": null,
+    "registeredStudent": 125,
+    "placedStudent": 78
+  },
+  {
+    "branch": "IT",
+    "highestPackage": 52.89 ,
+    "lowestPackage": 6 ,
+    "medianPackage": 24 ,
+    "averagePackage": 15.08 ,
+    "placementPercentage": null,
+    "registeredStudent": 126,
+    "placedStudent": 98
+  },
+  {
+    "branch": "MECHANICAL ENGG",
+    "highestPackage": 42.6 ,
+    "lowestPackage": 4.5 ,
+    "medianPackage": 12 ,
+    "averagePackage": 10.90 ,
+    "placementPercentage": null,
+    "registeredStudent": 177,
+    "placedStudent": 133
+  },
+  {
+    "branch": "METALLURGY",
+    "highestPackage": 20 ,
+    "lowestPackage": 4.5 ,
+    "medianPackage": 12 ,
+    "averagePackage": 10.85 ,
+    "placementPercentage": null,
+    "registeredStudent": 49,
+    "placedStudent": 40
+  },
+  {
+    "branch": "MINING ENGG",
+    "highestPackage": 13.95 ,
+    "lowestPackage": 5.5 ,
+    "medianPackage": 10.87 ,
+    "averagePackage": 10.69 ,
+    "placementPercentage": null,
+    "registeredStudent": 43,
+    "placedStudent": 30
+  }
+ 
+
+      
+      ],
+      "PG": [
+        {
+    "branch": "MSc Chemistry",
+    "highestPackage": 12 ,
+    "lowestPackage": 6 ,
+    "medianPackage": 6.5 ,
+    "averagePackage": 7.36 ,
+    "placementPercentage": null,
+    "registeredStudent": 33,
+    "placedStudent": 21
+  },
+  {
+    "branch": "MSc (Physics)",
+    "highestPackage": 8 ,
+    "lowestPackage": 6 ,
+    "medianPackage": 6 ,
+    "averagePackage": 6.66 ,
+    "placementPercentage": null,
+    "registeredStudent": 25,
+    "placedStudent": 4
+  }
+      ]
+    },
+    "twoYearbackStats": {
+      "UG": [
+       
+      ],
+      "PG": [
+      
+      ]
+    }
+  },
+  "nit_wrangal": {
+    "name": "NIT Wrangal",
+    "nirfRank": 3,
+    "qsWorldRanking": 149,
+    "abbreviation" : ["NIT Wrangal","NIT W"],
+    "photo": "https://www.kindpng.com/picc/m/282-2829188_iit-bombay-logo-png-transparent-png.png",
+    "UG": [
+      
+    ],
+    "PG": [
+     
+    ],
+    "oneYearbackStats": {
+      "UG": [
+      {
+    "branch": "Civil",
+    "highestPackage": 18,
+    "lowestPackage": null,
+    "medianPackage": null,
+    "averagePackage": 9.68,
+    "placementPercentage": 76.3,
+    "registeredStudent": null,
+    "placedStudent": 58
+  },
+  {
+    "branch": "EEE",
+    "highestPackage": 64.7,
+    "lowestPackage": null,
+    "medianPackage": null,
+    "averagePackage": 16.89,
+    "placementPercentage": 83.33,
+    "registeredStudent": null,
+    "placedStudent": 90
+  },
+  {
+    "branch": "ME",
+    "highestPackage": 64.7,
+    "lowestPackage": null,
+    "medianPackage": null,
+    "averagePackage": 15.07,
+    "placementPercentage": 86.67,
+    "registeredStudent": null,
+    "placedStudent": 104
+  },
+  {
+    "branch": "ECE",
+    "highestPackage": 63,
+    "lowestPackage": null,
+    "medianPackage": null,
+    "averagePackage": 21.55,
+    "placementPercentage": 90.75,
+    "registeredStudent": null,
+    "placedStudent": 108
+  },
+  {
+    "branch": "MME",
+    "highestPackage": 17.73,
+    "lowestPackage": null,
+    "medianPackage": null,
+    "averagePackage": 10.88,
+    "placementPercentage": 68.42,
+    "registeredStudent": null,
+    "placedStudent": 39
+  },
+  {
+    "branch": "CHE",
+    "highestPackage": 38,
+    "lowestPackage": null,
+    "medianPackage": null,
+    "averagePackage": 12.72,
+    "placementPercentage": 89.83,
+    "registeredStudent": null,
+    "placedStudent": 76
+  },
+  {
+    "branch": "CSE",
+    "highestPackage": 64.7,
+    "lowestPackage": null,
+    "medianPackage": null,
+    "averagePackage": 30.4,
+    "placementPercentage": 91.6,
+    "registeredStudent": null,
+    "placedStudent": 120
+  },
+  {
+    "branch": "BioTech",
+    "highestPackage": 17.65,
+    "lowestPackage": null,
+    "medianPackage": null,
+    "averagePackage": 11.18,
+    "placementPercentage": 44.44,
+    "registeredStudent": null,
+    "placedStudent": 24
+  }
+      ],
+      "PG": [
+       
+      ]
+    },
+    "twoYearbackStats": {
+      "UG": [
+       
+      ],
+      "PG": [
+      
+      ]
+    }
+  },
+  "nit_surat": {
+    "name": "NIT Surat",
+    "nirfRank": 3,
+    "qsWorldRanking": 149,
+    "abbreviation" : ["IIT Bombay","IITB"],
+    "photo": "https://www.kindpng.com/picc/m/282-2829188_iit-bombay-logo-png-transparent-png.png",
+    "UG": [
+      
+    ],
+    "PG": [
+     
+    ],
+    "oneYearbackStats": {
+      "UG": [
+      {
+      "branch": "Computer Sci. Engg.",
+      "registeredStudent": 126,
+      "placedStudent": 107,
+      "placementPercentage": 85.0,
+      "highestPackage": 52.71,
+      "lowestPackage": 5.28,
+      "medianPackage": 15.0,
+      "averagePackage": 16.45
+    },
+    {
+      "branch": "Electrical Engg.",
+      "registeredStudent": 109,
+      "placedStudent": 85,
+      "placementPercentage": 78.0,
+      "highestPackage": 36.42,
+      "lowestPackage": 5.00,
+      "medianPackage": 8.5,
+      "averagePackage": 10.10
+    },
+    {
+      "branch": "Chemical Engg.",
+      "registeredStudent": 111,
+      "placedStudent": 81,
+      "placementPercentage": 73.0,
+      "highestPackage": 19.90,
+      "lowestPackage": 5.00,
+      "medianPackage": 7.79,
+      "averagePackage": 9.43
+    },
+    {
+      "branch": "Mechanical Engg.",
+      "registeredStudent": 205,
+      "placedStudent": 147,
+      "placementPercentage": 72.0,
+      "highestPackage": 19.90,
+      "lowestPackage": 5.00,
+      "medianPackage": 8.5,
+      "averagePackage": 8.97
+    },
+    {
+      "branch": "Electronics Engg.",
+      "registeredStudent": 158,
+      "placedStudent": 86,
+      "placementPercentage": 54.0,
+      "highestPackage": 31.07,
+      "lowestPackage": 3.30,
+      "medianPackage": 12.00,
+      "averagePackage": 12.69
+    },
+    {
+      "branch": "Civil Engg.",
+      "registeredStudent": 96,
+      "placedStudent": 51,
+      "placementPercentage": 53.0,
+      "highestPackage": 11.67,
+      "lowestPackage": 3.60,
+      "medianPackage": 6.50,
+      "averagePackage": 6.72
+    }
+      ],
+      "PG": [
+       
+      ]
+    },
+    "twoYearbackStats": {
+      "UG": [
+       
+      ],
+      "PG": [
+      
+      ]
+    }
+  },
+  "nit_calicut": {
+    "name": "NIT Goa",
+    "nirfRank": 3,
+    "qsWorldRanking": 149,
+    "abbreviation" : ["NIT Goa","NITG"],
+    "photo": "https://www.kindpng.com/picc/m/282-2829188_iit-bombay-logo-png-transparent-png.png",
+    "UG": [
+      
+    ],
+    "PG": [
+     
+    ],
+    "oneYearbackStats": {
+      "UG": [
+      {
+      "branch": "CSE",
+      "highestPackage": 19,
+      "lowestPackage": 5.1,
+      "medianPackage": 10,
+      "averagePackage": 10.45,
+      "registeredStudent": 22,
+      "placedStudent": 19,
+      "placementPercentage": 86.63
+    },
+    {
+      "branch": "ECE",
+      "highestPackage": 20,
+      "lowestPackage": 3,
+      "medianPackage": 8,
+      "averagePackage": 9.98,
+      "registeredStudent": 35,
+      "placedStudent": 31,
+      "placementPercentage": 88.57
+    },
+    {
+      "branch": "EEE",
+      "highestPackage": 12,
+      "lowestPackage": 6.5,
+      "medianPackage": 12,
+      "averagePackage": 10.26,
+      "registeredStudent": 26,
+      "placedStudent": 18,
+      "placementPercentage": 69.23
+    },
+    {
+      "branch": "Mech",
+      "highestPackage": 12,
+      "lowestPackage": 5,
+      "medianPackage": 6.5,
+      "averagePackage": 6.91,
+      "registeredStudent": 21,
+      "placedStudent": 13,
+      "placementPercentage": 61.90
+    },
+    {
+      "branch": "Civil",
+      "highestPackage": 12,
+      "lowestPackage": 6,
+      "medianPackage": 7,
+      "averagePackage": 8.81,
+      "registeredStudent": 16,
+      "placedStudent": 10,
+      "placementPercentage": 62.50
+    }
+      ],
+      "PG": [
+       {
+      "branch": "CSE",
+      "highestPackage": 19,
+      "lowestPackage": 9,
+      "medianPackage": 13.5,
+      "averagePackage": 13.75,
+      "registeredStudent": 7,
+      "placedStudent": 4,
+      "placementPercentage": 57
+    },
+    {
+      "branch": "VLSI",
+      "highestPackage": 35,
+      "lowestPackage": 23,
+      "medianPackage": 23,
+      "averagePackage": 25,
+      "registeredStudent": 17,
+      "placedStudent": 6,
+      "placementPercentage": 35
+    },
+    {
+      "branch": "PEPS",
+      "highestPackage": 8.5,
+      "lowestPackage": 6.5,
+      "medianPackage": 7.5,
+      "averagePackage": 7.5,
+      "registeredStudent": 2,
+      "placedStudent": 2,
+      "placementPercentage": 100
+    }
+      ]
+    },
+    "twoYearbackStats": {
+      "UG": [
+       
+      ],
+      "PG": [
+      
+      ]
+    }
+  },
+  
+  "nit_nagpur": {
+    "name": "NIT Nagpur",
+    "nirfRank": 3,
+    "qsWorldRanking": 149,
+    "abbreviation" : ["IIT Bombay","IITB"],
+    "photo": "https://www.kindpng.com/picc/m/282-2829188_iit-bombay-logo-png-transparent-png.png",
+    "UG": [
+      
+    ],
+    "PG": [
+     
+    ],
+    "oneYearbackStats": {
+      "UG": [
+       {
+      "branch": "Civil",
+      "registeredStudent": 82,
+      "placedStudent": 50,
+      "placementPercentage": 60.98,
+      "highestPackage": 14.10,
+      "lowestPackage": 4.00,
+      "averagePackage": 6.50,
+      "medianPackage": 6.50
+    },
+    {
+      "branch": "Chem",
+      "registeredStudent": 83,
+      "placedStudent": 56,
+      "placementPercentage": 67.47,
+      "highestPackage": 31.00,
+      "lowestPackage": 5.00,
+      "averagePackage": 10.47,
+      "medianPackage": 10.17
+    },
+    {
+      "branch": "CSE",
+      "registeredStudent": 117,
+      "placedStudent": 97,
+      "placementPercentage": 82.91,
+      "highestPackage": 64.00,
+      "lowestPackage": 4.00,
+      "averagePackage": 17.01,
+      "medianPackage": 12.00
+    },
+    {
+      "branch": "EEE",
+      "registeredStudent": 108,
+      "placedStudent": 77,
+      "placementPercentage": 71.30,
+      "highestPackage": 31.00,
+      "lowestPackage": 5.30,
+      "averagePackage": 11.48,
+      "medianPackage": 10.39
+    },
+    {
+      "branch": "ECE",
+      "registeredStudent": 111,
+      "placedStudent": 73,
+      "placementPercentage": 65.77,
+      "highestPackage": 64.00,
+      "lowestPackage": 5.30,
+      "averagePackage": 12.80,
+      "medianPackage": 11.50
+    },
+    {
+      "branch": "MECH",
+      "registeredStudent": 108,
+      "placedStudent": 97,
+      "placementPercentage": 89.81,
+      "highestPackage": 31.00,
+      "lowestPackage": 5.00,
+      "averagePackage": 10.78,
+      "medianPackage": 9.20
+    },
+    {
+      "branch": "MME",
+      "registeredStudent": 85,
+      "placedStudent": 60,
+      "placementPercentage": 70.59,
+      "highestPackage": 31.00,
+      "lowestPackage": 3.75,
+      "averagePackage": 8.79,
+      "medianPackage": 8.00
+    },
+    {
+      "branch": "MIN",
+      "registeredStudent": 36,
+      "placedStudent": 23,
+      "placementPercentage": 63.89,
+      "highestPackage": 14.45,
+      "lowestPackage": 6.00,
+      "averagePackage": 9.12,
+      "medianPackage": 7.75
+    }
+      ],
+      "PG": [
+       
+      ]
+    },
+    "twoYearbackStats": {
+      "UG": [
+       
+      ],
+      "PG": [
+      
+      ]
+    }
+  },
+  "nit_kurukshetra": {
+    "name": "NIT KuruKshetra",
+    "nirfRank": 3,
+    "qsWorldRanking": 149,
+    "abbreviation" : ["NIT Trichy","NIT T"],
+    "photo": "https://www.kindpng.com/picc/m/282-2829188_iit-bombay-logo-png-transparent-png.png",
+    "UG": [
+      
+    ],
+    "PG": [
+     
+    ],
+    "oneYearbackStats": {
+      "UG": [
+      {
+    "branch": "Civil Engineering",
+    "highestPackage": 26.64,
+    "lowestPackage": 4.50,
+    "medianPackage": 7.00,
+    "averagePackage": 8.99,
+    "placementPercentage": 48.36,
+    "registeredStudent": 187,
+    "placedStudent": 59
+  },
+  {
+    "branch": "Computer Engineering",
+    "highestPackage": 61.00,
+    "lowestPackage": 8.50,
+    "medianPackage": 14.75,
+    "averagePackage": 19.70,
+    "placementPercentage": 51.16,
+    "registeredStudent": 116,
+    "placedStudent": 44
+  },
+  {
+    "branch": "Information Technology",
+    "highestPackage": 51.00,
+    "lowestPackage": 7.60,
+    "medianPackage": 14.86,
+    "averagePackage": 19.55,
+    "placementPercentage": 61.54,
+    "registeredStudent": 129,
+    "placedStudent": 72
+  },
+  {
+    "branch": "Electronics & Communication Engineering",
+    "highestPackage": 51.00,
+    "lowestPackage": 6.00,
+    "medianPackage": 11.35,
+    "averagePackage": 14.58,
+    "placementPercentage": 38.82,
+    "registeredStudent": 173,
+    "placedStudent": 59
+  },
+  {
+    "branch": "Electrical Engineering",
+    "highestPackage": 36.42,
+    "lowestPackage": 5.00,
+    "medianPackage": 10.00,
+    "averagePackage": 11.91,
+    "placementPercentage": 45.27,
+    "registeredStudent": 168,
+    "placedStudent": 67
+  },
+  {
+    "branch": "Mechanical Engineering",
+    "highestPackage": 17.00,
+    "lowestPackage": 5.00,
+    "medianPackage": 8.25,
+    "averagePackage": 9.35,
+    "placementPercentage": 69.01,
+    "registeredStudent": 201,
+    "placedStudent": 98
+  },
+  {
+    "branch": "Production Engineering",
+    "highestPackage": 17.73,
+    "lowestPackage": 4.20,
+    "medianPackage": 8.00,
+    "averagePackage": 8.92,
+    "placementPercentage": 54.76,
+    "registeredStudent": 112,
+    "placedStudent": 46
+  }
+      ],
+      "PG": [
+       
+      ]
+    },
+    "twoYearbackStats": {
+      "UG": [
+       
+      ],
+      "PG": [
+      
+      ]
+    }
+  },
+  "nit_allahbad": {
+    "name": "NIT Allahbad",
+    "nirfRank": 3,
+    "qsWorldRanking": 149,
+    "abbreviation" : ["NIT Trichy","NIT T"],
+    "photo": "https://www.kindpng.com/picc/m/282-2829188_iit-bombay-logo-png-transparent-png.png",
+    "UG": [
+      
+    ],
+    "PG": [
+     
+    ],
+    "oneYearbackStats": {
+      
+    
+
+
+  "UG": [
+    {
+      "branch": "Biotechnology",
+      "registeredStudent": 15,
+      "placedStudent": 10,
+      "placementPercentage": null,
+      "highestPackage": 19.63,
+      "lowestPackage": 4.80,
+      "averagePackage": 10.166713,
+      "medianPackage": 9.50
+    },
+    {
+      "branch": "Chemical Engineering",
+      "registeredStudent": 48,
+      "placedStudent": 35,
+      "placementPercentage": 65.85,
+      "highestPackage": 63.78226,
+      "lowestPackage": 3.30,
+      "averagePackage": 11.9668434,
+      "medianPackage": 8.00
+    },
+    {
+      "branch": "Civil Engineering",
+      "registeredStudent": 66,
+      "placedStudent": 46,
+      "placementPercentage": 40.00,
+      "highestPackage": 28.89633,
+      "lowestPackage": 5.00,
+      "averagePackage": 9.9441426,
+      "medianPackage": 8.10
+    },
+    {
+      "branch": "Computer Science and Engineering",
+      "registeredStudent": 174,
+      "placedStudent": 128,
+      "placementPercentage": 82.89,
+      "highestPackage": 63.78226,
+      "lowestPackage": 3.50,
+      "averagePackage": 26.4364714,
+      "medianPackage": 23.00
+    },
+    {
+      "branch": "Electrical Engineering",
+      "registeredStudent": 74,
+      "placedStudent": 53,
+      "placementPercentage": 61.76,
+      "highestPackage": 63.78226,
+      "lowestPackage": 6.00,
+      "averagePackage": 16.6633917,
+      "medianPackage": 11.40
+    },
+    {
+      "branch": "Electronics and Communication Engineering",
+      "registeredStudent": 153,
+      "placedStudent": 104,
+      "placementPercentage": 64.44,
+      "highestPackage": 63.78226,
+      "lowestPackage": 3.50,
+      "averagePackage": 18.6394737,
+      "medianPackage": 15.002
+    },
+    {
+      "branch": "Information Technology",
+      "registeredStudent": 116,
+      "placedStudent": 75,
+      "placementPercentage": null,
+      "highestPackage": 63.78226,
+      "lowestPackage": 3.716,
+      "averagePackage": 22.4738253,
+      "medianPackage": 19.63
+    },
+    {
+      "branch": "Mechanical Engineering",
+      "registeredStudent": 145,
+      "placedStudent": 115,
+      "placementPercentage": 63.46,
+      "highestPackage": 19.63,
+      "lowestPackage": 5.00,
+      "averagePackage": 10.525733,
+      "medianPackage": 8.99565
+    },
+    {
+      "branch": "Production and Industrial Engg",
+      "registeredStudent": 30,
+      "placedStudent": 24,
+      "placementPercentage": null,
+      "highestPackage": 15.004,
+      "lowestPackage": 5.00,
+      "averagePackage": 8.3480833,
+      "medianPackage": 7.00
+    }
+      ],
+      "PG": [
+       
+      ]
+    },
+    "twoYearbackStats": {
+      "UG": [
+       
+      ],
+      "PG": [
+      
+      ]
+    }
+  }
+
+
+}
+
+ 
